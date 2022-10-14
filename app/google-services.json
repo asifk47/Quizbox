@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "975803135548",
+    "project_id": "quizbox3-568c4",
+    "storage_bucket": "quizbox3-568c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:975803135548:android:1c4df431fab783745c3539",
+        "android_client_info": {
+          "package_name": "com.example.quizbox3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "975803135548-udkau7pbrql4kl5q11da3e4t2qqd92oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZhHoCRGqiqThIp9kFiS-IY5BwPf2uOvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "975803135548-udkau7pbrql4kl5q11da3e4t2qqd92oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
